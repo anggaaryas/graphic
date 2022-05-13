@@ -205,3 +205,5 @@ export 'src/dataflow/tuple.dart' show Tuple, Aes, AesGroups;
 
 export 'src/util/path.dart' show Paths;
 export 'package:path_drawing/path_drawing.dart' show DashOffset;
+
+export 'src/util/path.dart';
